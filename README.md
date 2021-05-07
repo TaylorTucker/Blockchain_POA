@@ -1,7 +1,7 @@
 # Proof of Authority Development Chain
 
 
-![blockchain](https://image.shutterstock.com/image-illustration/blockchain-technology-abstract-background-3d-260nw-749922058.jpg)
+![blockchain](https://www.paymentsjournal.com/wp-content/uploads/2020/03/1027-scaled.jpg)
 
 
 ## Background
