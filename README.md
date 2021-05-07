@@ -38,11 +38,12 @@
       - 127.0.0.1:30303 (Node1)
       - 127.0.0.1:30304 (Node2)
       - 127.0.0.1:8545  (Local)
-4. Connect MyCypto to network
-    - Open a wallet in my cryto using the keystore file and address for Node 1
-    - Create Custom node using the above: **ChainId, Network, and Local Port
+4. Create Custom node using the above: **ChainId, Network, and Local Port
     - ![customNode](https://github.com/TaylorTucker/Blockchain_POA/blob/main/Screen%20Shots/custom_node.PNG?raw=true)
-5. Send a Transaction
+5. Connect MyCypto to network
+    - Open a wallet in my cryto using the keystore file and address for Node 1
+    - ![wallet](https://github.com/TaylorTucker/Blockchain_POA/blob/main/Screen%20Shots/connected_wallet.PNG?raw=true)
+6. Send a Transaction
     - Send a test trasaction to Node 2 using its address listed above
     - ![transaction](https://github.com/TaylorTucker/Blockchain_POA/blob/main/Screen%20Shots/Transaction.png?raw=true)
 
